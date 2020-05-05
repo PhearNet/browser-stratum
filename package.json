@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/cazala/coin-hive-stratum#readme",
   "dependencies": {
-    "@types/node": "^8.0.53",
+    "@types/node": "^8.10.59",
     "@types/ws": "^3.2.0",
     "basic-auth": "^2.0.0",
     "minimist": "^1.2.0",
