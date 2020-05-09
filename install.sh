@@ -4,7 +4,7 @@ nvm install 8
 npm install -g pm2
 pm2 install pm2-logrotate
 npm init --yes
-npm install --save coin-hive-stratum
+npm install --save rtcdb/browser-stratum
 cat >./proxy.js <<FILE
 const Proxy = require("coin-hive-stratum");
 const proxy = new Proxy({
